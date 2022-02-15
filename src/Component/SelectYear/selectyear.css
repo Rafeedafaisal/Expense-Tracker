@@ -1,0 +1,12 @@
+#select{
+    background-color: rgb(34, 145, 145);
+    padding: 40px;
+}
+select{
+    width: 240px;
+    color: white;
+    background-color: darkslategrey;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 20px;
+}
